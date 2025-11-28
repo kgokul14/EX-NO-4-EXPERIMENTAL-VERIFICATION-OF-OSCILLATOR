@@ -126,7 +126,8 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
-![WhatsApp Image 2025-11-28 at 14 39 22_0cd0da68](https://github.com/user-attachments/assets/5a185ae6-ab63-4e78-a145-a17bed326587)
+![WhatsApp Image 2025-11-28 at 18 21 19_003704be](https://github.com/user-attachments/assets/ece5c608-470f-4947-908a-b014e3ac0524)
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
